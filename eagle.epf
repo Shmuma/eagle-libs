@@ -342,6 +342,7 @@ UsedLibrary="C:/Program Files/EAGLE-6.3.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="C:/Program Files/EAGLE-6.3.0/lbr/zetex.lbr"
 UsedLibrary="C:/Program Files/EAGLE-6.3.0/lbr/zilog.lbr"
 UsedLibrary="shmuma.lbr"
+UsedLibrary="Z:/SparkFun-Eagle-Library/SparkFun.lbr"
 
 [Win_1]
 Type="Control Panel"
